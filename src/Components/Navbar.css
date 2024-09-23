@@ -185,7 +185,7 @@ color: #84BD00;
 @media screen and (max-width: 1440px) {
   .navbar-main {
     padding: 12px 80px 10px 60px;
-    height: auto;
+
   }
 
   .navbar-links ul li {
