@@ -90,6 +90,7 @@ color: #000000;
 .footer-image{
   background: url('/public/Images/footerbg.svg');
   padding: 103px 0px 32px 112px;
+  margin-top: 35px !important;
 }
 .All{
   display: flex;
